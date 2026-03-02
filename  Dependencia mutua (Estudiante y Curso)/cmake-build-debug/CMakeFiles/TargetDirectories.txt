@@ -1,0 +1,3 @@
+C:/Users/carba/CLionProjects/ Dependencia mutua (Estudiante y Curso)/cmake-build-debug/CMakeFiles/_Dependencia_mutua__Estudiante_y_Curso_.dir
+C:/Users/carba/CLionProjects/ Dependencia mutua (Estudiante y Curso)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/carba/CLionProjects/ Dependencia mutua (Estudiante y Curso)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
